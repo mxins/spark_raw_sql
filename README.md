@@ -1,3 +1,3 @@
 # spark_raw_sql
-spark 2.0.1  
+python3, spark 2.0.1  
 spark sql execute raw sql example.
